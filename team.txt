@@ -1,3 +1,3 @@
 Team members: Brandon Gilbert and Gabe Stuk
 Favorite programming language: TBD
-Team motto: We are Boilermakers
+Team motto: Building fun tools using CS skills.
